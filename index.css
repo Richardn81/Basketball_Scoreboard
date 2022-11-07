@@ -24,10 +24,9 @@ body{
 }
 
 .score:hover{
-    cursor:pointer;
+    
     background:#F94F6D;
     color: #080001;
-    
 }
 
 .container{
@@ -36,7 +35,6 @@ body{
     width:575px;
     height:385px;
     background-color:#1b244a;
-    
 }
 
 button{
@@ -58,6 +56,7 @@ button:hover{
     background:#f94f6d;
     font-weight:bold;
 }
+
 .points-plus{
     display:flex;
     justify-content: space-evenly;
@@ -84,7 +83,6 @@ h3{
     text-align: center;
     color: #EEEEEE;
 }
-
 
 .away{
     margin-right:83px;
